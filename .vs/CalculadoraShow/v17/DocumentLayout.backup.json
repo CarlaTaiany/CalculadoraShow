@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\carla.tojesus\\source\\repos\\CalculadoraShow\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F0F4E823-E015-4578-9C1D-195990FD729E}|CalculadoraShow\\CalculadoraShow.csproj|c:\\users\\carla.tojesus\\source\\repos\\calculadorashow\\calculadorashow\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F0F4E823-E015-4578-9C1D-195990FD729E}|CalculadoraShow\\CalculadoraShow.csproj|solutionrelative:calculadorashow\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F0F4E823-E015-4578-9C1D-195990FD729E}|CalculadoraShow\\CalculadoraShow.csproj|c:\\users\\carla.tojesus\\source\\repos\\calculadorashow\\calculadorashow\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0F4E823-E015-4578-9C1D-195990FD729E}|CalculadoraShow\\CalculadoraShow.csproj|solutionrelative:calculadorashow\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0F4E823-E015-4578-9C1D-195990FD729E}|CalculadoraShow\\CalculadoraShow.csproj|C:\\Users\\carla.tojesus\\source\\repos\\CalculadoraShow\\calculadorashow\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F0F4E823-E015-4578-9C1D-195990FD729E}|CalculadoraShow\\CalculadoraShow.csproj|solutionrelative:calculadorashow\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +18,31 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\carla.tojesus\\source\\repos\\CalculadoraShow\\CalculadoraShow\\Form1.cs",
               "RelativeDocumentMoniker": "CalculadoraShow\\Form1.cs",
               "ToolTip": "C:\\Users\\carla.tojesus\\source\\repos\\CalculadoraShow\\CalculadoraShow\\Form1.cs",
               "RelativeToolTip": "CalculadoraShow\\Form1.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAiwEMAAABUAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowEIAAABZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-29T17:01:11.111Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\carla.tojesus\\source\\repos\\CalculadoraShow\\CalculadoraShow\\Form1.cs",
               "RelativeDocumentMoniker": "CalculadoraShow\\Form1.cs",
               "ToolTip": "C:\\Users\\carla.tojesus\\source\\repos\\CalculadoraShow\\CalculadoraShow\\Form1.cs [Design]",
               "RelativeToolTip": "CalculadoraShow\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T19:54:37.043Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-04-28T19:54:37.043Z"
             }
           ]
         }

@@ -64,7 +64,7 @@ namespace CalculadoraShow
             rbDivisao.Checked = false;
 
             //Limpar a caixa de resultados:
-            txbResultado.Text = "";
+            txbResultado.Text = "";//Resultado pode ser mostrado assim ou da forma abaixo
             txbResultado.Clear(); // Igual ao de cima. Outra forma de limpar o texto 
 
         }
