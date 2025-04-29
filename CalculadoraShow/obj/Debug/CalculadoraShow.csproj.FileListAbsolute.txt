@@ -1,0 +1,10 @@
+C:\Users\carla.tojesus\source\repos\CalculadoraShow\CalculadoraShow\bin\Debug\CalculadoraShow.exe.config
+C:\Users\carla.tojesus\source\repos\CalculadoraShow\CalculadoraShow\bin\Debug\CalculadoraShow.exe
+C:\Users\carla.tojesus\source\repos\CalculadoraShow\CalculadoraShow\bin\Debug\CalculadoraShow.pdb
+C:\Users\carla.tojesus\source\repos\CalculadoraShow\CalculadoraShow\obj\Debug\CalculadoraShow.csproj.AssemblyReference.cache
+C:\Users\carla.tojesus\source\repos\CalculadoraShow\CalculadoraShow\obj\Debug\CalculadoraShow.CalculadoraSimples.resources
+C:\Users\carla.tojesus\source\repos\CalculadoraShow\CalculadoraShow\obj\Debug\CalculadoraShow.Properties.Resources.resources
+C:\Users\carla.tojesus\source\repos\CalculadoraShow\CalculadoraShow\obj\Debug\CalculadoraShow.csproj.GenerateResource.cache
+C:\Users\carla.tojesus\source\repos\CalculadoraShow\CalculadoraShow\obj\Debug\CalculadoraShow.csproj.CoreCompileInputs.cache
+C:\Users\carla.tojesus\source\repos\CalculadoraShow\CalculadoraShow\obj\Debug\CalculadoraShow.exe
+C:\Users\carla.tojesus\source\repos\CalculadoraShow\CalculadoraShow\obj\Debug\CalculadoraShow.pdb
